@@ -2,7 +2,7 @@
 arch: ResNet18
 
 # ===== Dataset ===== #
-data: /media/DATASET/ImageNet
+data: /path/to/ImageNet
 set: ImageNet
 name: Mask
 

@@ -1,0 +1,1 @@
+ python main.py --config configs/resnet50.yaml --multigpu 0 --checkpoint /path/to/dense/resnet50.pth --prune_rate 0.9 
